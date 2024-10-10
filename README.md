@@ -19,6 +19,14 @@ Welcome to BeanCoffee, a modern and responsive online platform dedicated to all 
 - **JavaScript (ES6)**
 
 
+## 📁Resources
+- Icons: https://boxicons.com/
+- Font: https://fonts.google.com/
+- Swiper: https://swiperjs.com/
+- Clip-path: https://bennettfeely.com/clippy/
+- ScrollReveal: https://scrollrevealjs.org/
+
+
 ## How to Use
 # Installation
 1. Clone the repository: https://github.com/konatebeh20/BeanCoffee.git
