@@ -18,5 +18,21 @@ Welcome to BeanCoffee, a modern and responsive online platform dedicated to all 
 - **CSS3**
 - **JavaScript (ES6)**
 
-## Installation
-1. Clone the repository: 
+
+## How to Use
+# Installation
+1. Clone the repository: https://github.com/konatebeh20/BeanCoffee.git
+2. Open `index.html` in your browser to view the site.
+
+
+## Contributing
+Feel free to contribute to this project by forking the repository, opening an issue, or submitting a pull request for any improvements or features you'd like to add!
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
+## Acknowledgements
+- Coffee images by Unsplash
+- Fonts from Google Fonts
