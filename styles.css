@@ -1,0 +1,44 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 3rem;
+    font-family: var(--font-family-2);
+}
+
+/* Variables */
+:root {
+    --main-color: #54372a;
+    --second-color: #df582e;
+    --text-color: #060413;
+    --container-color: #f8e4be;
+    --bg-color: #f9f6f2;
+    --text-alter-color: #94908e;
+    --poppins-font: "Poppins", sans-serif;
+    --font-family-2: "Playfair Display", serif;
+}
+
+body{
+    color: var(--bg-color);
+    background: var(--bg-color);
+}
+
+a {
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
+
+section{
+    padding: 3rem 0 2rem;
+}
+
+.container{
+    
+}
